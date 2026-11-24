@@ -1,0 +1,7 @@
+workstation,rdp_enabled,allowed_users,last_remote_login_days
+WS-01,yes,,5
+WS-02,no,,999
+WS-03,yes,ayesha,90
+WS-04,yes,bilal; sara,2
+WS-05,yes,omar,75
+WS-06,yes,ayesha,recent
